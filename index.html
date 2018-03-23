@@ -1,5 +1,7 @@
-<div class="main-content  index-page clearfix ">
+---
+---
 
+<div class="main-content index-page clearfix ">
 	<div class="post-lists">
 		<div class="post-lists-body">
       {% for posts in paginator.posts %}
@@ -29,4 +31,4 @@
        {% endfor %}
 	</div>
 	</div>
-{% include pagination.html %}
+  {% include pagination.html %}
