@@ -5,7 +5,7 @@ highlighter: 'pygments'
 #paginate: 8
 permalink: /:title
 
-title: Bill Page 
+title: Bill's Page 
 url: http://billsmiless.github.io
 feed: /atom.xml
 author_info: <a href="http://billsmiless.github.io/">billsmiless</a>
